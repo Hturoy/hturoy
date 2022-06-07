@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hturoy)](https://github.com/hturoy/github-readme-stats)
 
 - 📫 How to reach me: 
-  - HenrikTuroy@gmail.com
+  - :norway:HenrikTuroy@gmail.com
   - :information_source:https://no.linkedin.com/in/henrik-tur%C3%B8y-48a76316a
 
 
