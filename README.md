@@ -6,6 +6,7 @@
 
 - 📫 How to reach me: 
   - HenrikTuroy@gmail.com
+  - :information_source:https://no.linkedin.com/in/henrik-tur%C3%B8y-48a76316a
 
 
 <!--
